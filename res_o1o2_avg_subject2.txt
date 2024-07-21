@@ -4381,4 +4381,3 @@
 29:212 -> K: 20 | acc: 88.0
 29:213 -> K: 21 | acc: 88.0
 29:214 -> K: 21 | acc: 88.0
-Max Window/k -> Window Start: 17 | Window Last: 143 | K: 23.0 | acc: 0.912
