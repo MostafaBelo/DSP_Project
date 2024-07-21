@@ -1,6 +1,6 @@
 import numpy as np
 
-with open("res.txt", "r") as f:
+with open("res_o1o2_concat_subject2.txt", "r") as f:
     data = f.read()
 
 data = [(line.split(":")[0], line.split(":")[1].split(" ->")[0], line.split(": ")[1].split(
